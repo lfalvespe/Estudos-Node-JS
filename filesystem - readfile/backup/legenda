@@ -1,0 +1,6 @@
+arquivos da aula: 
+
+- na aula foi utilizado o require pra importar o express
+
+- Refiz utilizando o import (Foi preciso criar o arquivo package.json utilizando o comando ( $ npm init -y ) 
+  e inserir a linha "type": "modeule". 

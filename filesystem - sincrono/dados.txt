@@ -1,0 +1,5 @@
+1 - feijão
+2 - arroz
+3 - acúcar
+4 - café
+5 - leite
